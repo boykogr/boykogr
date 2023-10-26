@@ -1,11 +1,9 @@
 ![Banner][banner-img]
 
-# Hello there!
-
-## I’m Boyko
+# Hello there! I’m Boyko.
 
 - I'm an architect, a interior designer and a 3D artist
-- Interested in coding and programming as a full-stack discipline
+- Interested in machine learning, coding and programming as a full-stack discipline
 - Currently learning Machine Learning at Softuni
 - Looking to collaborate on ML, Python and JS
 
