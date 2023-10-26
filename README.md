@@ -1,4 +1,4 @@
-[![Banner][banner-img]]
+![Banner][banner-img]
 
 # Hello there!
 
@@ -6,8 +6,8 @@
 
 - I'm an architect, a interior designer and a 3D artist
 - Interested in coding and programming as a full-stack discipline
-- Currently learning Python at Softuni
-- Looking to collaborate on Python and JS
+- Currently learning Machine Learning at Softuni
+- Looking to collaborate on ML, Python and JS
 
 ---
 
