@@ -22,4 +22,4 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <!-- Link anchors -->
-[banner-img]: https://github.com/boykogr/boykogr/blob/main/Banner.gif
+[banner-img]: https://github.com/boykogr/boykogr/blob/main/banner.jpg
